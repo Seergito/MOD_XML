@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0">
+    
+    <channel>
+        
+        <title>
+TESDAI - Centro Privado Formación Profesional específica
+</title>
+        
+        <link>http://tesdai.com</link>
+        
+        <description>
+Tesdai es un centro Privado de Formación Profesional Específica,
+ubicado en Avda. Rosalía de Castro, 42-bajo, en el centro de Santiago
+de Compostela.
+</description>
+         
+        <item>
+                
+            <title>Curso de Diseño Gráfico</title>
+                
+            <link>http://tesdai.com/index.php/cursos/30-disenografico</link>
+                
+            <description>
+    Conoce las técnicas de creatividad, visualización y
+    composición que nos permiten crear los mejores carteles, dibujos,
+    portadas, envases..., en definitiva, cualquier tipo de imagen.
+    </description>
+                
+            <pubDate>Tue, 19 Sep 2012 11:42:21 GMT</pubDate>
+             
+        </item>
+         
+        <item>
+                
+            <title>Nuevo Curso de guiones de cine</title>
+                
+            <link>http://tesdai.com/index.php/cursos/37-guiones-decine</link>
+                
+            <description>
+    El curso se enfoca desde un punto de vista teórico-práctico: al mismo
+    tiempo que el alumno aprende distintas técnicas y trucos narrativos,
+    podrá aplicarlos en ejercicios metódicos de escritura gracias a los
+    cuales creará, durante todo el curso, una historia que el profesor irá
+    corrigiendo y orientando según el avance en las lecciones.
+    </description>
+                
+            <pubDate>Tue, 23 Sep 2012 11:42:21 GMT</pubDate>
+             
+        </item>
+         
+        <!--Noticia añadida por código-->
+        <item>
+               
+            <title>Microsoft Office nivel medio</title>
+               
+            <link>https://tesdai.com/microsoft-office/</link>
+               
+            <description>
+   Este curso le proporciona los conocimientos y las técnicas necesarias
+   para que usted pueda formarse y conocer el paquete de Microsoft Office
+   (que es hoy por hoy el más utilizado).
+   </description>
+             
+        </item>
+        
+    </channel>
+    
+</rss>
